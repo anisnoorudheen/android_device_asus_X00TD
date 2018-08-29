@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo tipsy_X00TD-userdebug
+add_lunch_combo cos_X00TD-userdebug
